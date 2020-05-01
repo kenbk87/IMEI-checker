@@ -63,7 +63,6 @@ def makecenter(root):
 makecenter(root)
 
 root.mainloop()
-
-
+#Sửa rồi nè
 
 
